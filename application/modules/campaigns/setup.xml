@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<module>
+    <name>campaigns</name>
+    <date>04/01/2018</date>
+    <author>Sajeev</author>
+    <email>sajeevsalim@gmail.com</email>
+    <url></url>
+    <copyright>GNU/GPL License</copyright>
+    <version>1.0.0</version>
+    <description>Campaigns module</description>
+</module>
