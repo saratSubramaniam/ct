@@ -79,7 +79,7 @@
                                     <div class="so-widget-sow-editor so-widget-sow-editor-base">
                                        <div class="siteorigin-widget-tinymce textwidget">
                                           <ul>
-                                             <li style="font-size: 12px">COMPASSIONATE THIRUVANAANTHAPURAM</li>
+                                             <li style="font-size: 12px">COMPASSIONATE TRIVANDRUM</li>
                                           </ul>
                                        </div>
                                     </div>
